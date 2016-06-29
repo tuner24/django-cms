@@ -1,0 +1,31 @@
+h1, h2, h3, h4, h5, h6 {
+	color: black;
+	}
+
+#side-carousel img {
+	margin: 0 auto;
+	}
+
+.footer-blurb {
+    padding: 30px 0;
+    margin-top: 20px;
+    background-color: #eee;
+    color: black;
+}
+    
+.footer-blurb-item {
+    padding: 20px;
+    }
+ 
+.small-print {
+	background-color: #fff;
+	padding: 30px 0;
+}
+
+.feature,
+.page-intro,
+.article-intro,
+.small-print {
+	text-align: center;
+	}
+	
