@@ -1,3 +1,3 @@
 # django-cms
-django-cms is a python web app based on Django.
-the F2E is based on a BootStrap template comes from "http://www.quackit.com/html/templates/"
+django-cms is a Content Management System application with Django.
+the F2E is based on a BootStrap template of "http://www.quackit.com/html/templates/"
